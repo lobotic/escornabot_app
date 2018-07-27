@@ -10,7 +10,6 @@ App para controlar escornabot desde dispositivo android
             * Pulsación corta (<1s.) = 90º
             * Pulsación larga (>1s.) = 45º
           * La distancia de avance se selecciona automáticamente en función de la posición del escornabot.
-
         * Modo 2 (Triángulos, Hexágonos)
           * Giros
             * Pulsación corta (>1s.) = 60º
