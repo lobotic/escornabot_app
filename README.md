@@ -1,6 +1,7 @@
 # escornabot_app
 App para controlar escornabot desde dispositivo android
-
+<img align="center"  src="https://github.com/lobotic/escornabot_app/blob/master/app1.png"
+<img align="center"  src="https://github.com/lobotic/escornabot_app/blob/master/app2.png"
 ## v2
  * Para firmware 1.5.x o superior
  * No es necesario tocar el código para usar el BT, conectar y jugar
